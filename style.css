@@ -3,5 +3,6 @@ body{
     color: rgb(218, 10, 10);
 }
 body{
-    font-variant-emoji: ;
+    display: block;
+    margin: 10px;
 }
